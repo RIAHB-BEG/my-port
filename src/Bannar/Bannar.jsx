@@ -28,7 +28,7 @@ export default function Bannar() {
               </button>
             </a>
           </div>
-          <div className="flex justify-center md:justify-start">
+          <div className="flex justify-center md:justify-start ">
             <img
               src="/WhatsApp Image 2025-03-05 at 22.49.14_79b0bc89.jpg"
               alt="Rihab Beg"
